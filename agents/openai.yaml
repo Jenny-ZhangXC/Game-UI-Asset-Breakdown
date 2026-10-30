@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game UI Asset Breakdown"
+  short_description: "Split game UI into reusable assets / 拆分小游戏界面美术素材"
+  default_prompt: "Use $game-ui-asset-breakdown to split my uploaded game UI and deliver an asset pack. / 使用 $game-ui-asset-breakdown 拆分我上传的游戏 UI 并交付素材包。"
